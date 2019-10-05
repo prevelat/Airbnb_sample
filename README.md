@@ -33,7 +33,7 @@ an optimized solution which will run in O(N) time (where N is the number of node
 than 2 seconds.
 
 Example 1:
-
+```
         1
       /   \
      2     \
@@ -41,6 +41,7 @@ Example 1:
    3   4     5
       /     / \
      6     7   8
+```
 
 In this case, your function should return 6,
 
@@ -48,7 +49,7 @@ because the longest path between two leaves is 6->4->2->1->5->7 (or finish by 8)
 which contains 6 nodes, so the tree have a 'width' of 6.
 
 Example 2:
-
+```
          1
        /  \
      2     \
@@ -60,21 +61,21 @@ Example 2:
   8    9   10
       / \    \
      11   12  13
-
+```
 In this case, your function should return 7,
 
 because the longest path between two leaves is 8->5->4->2->7->9->11 .
 
 Example 3:
-
+```
 10
   \
    12
-
+```
 In this case, your function should return 2.
 
 Example 4:
-
+```
         25
       /
     33
@@ -82,13 +83,13 @@ Example 4:
  12   9
      /
     3
-
+```
 In this case, your function should return 4.
 
 Example 5:
-
+```
   10
-
+```
 (here is a root with no children)
 
 In this case, your function should return 1.
