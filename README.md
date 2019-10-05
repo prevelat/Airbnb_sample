@@ -92,4 +92,3 @@ Example 5:
 (here is a root with no children)
 
 In this case, your function should return 1.
-
