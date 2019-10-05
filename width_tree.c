@@ -1,4 +1,4 @@
-struct				s_node
+struct					s_node
 {
 	int				value;
 	struct s_node	*left;
