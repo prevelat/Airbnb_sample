@@ -1,8 +1,9 @@
 # Airbnb_sample
-
+```
 Assignment name  : width_tree
 Expected files   : width_tree.c
 Allowed functions:
+```
 --------------------------------------------------------------------------------
 
 ALERT: OPTIMIZED SOLUTION REQUIRED.
