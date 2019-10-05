@@ -9,7 +9,7 @@ Allowed functions:
 ALERT: OPTIMIZED SOLUTION REQUIRED.
 
 Given the root node of a binary tree, create a function that returns the
-'width' of the tree, which is the number of node present on the longest
+'width' of the tree, which is the number of nodes present on the longest
 path between two leaves in the tree.
 
 The binary tree uses the following node structure :
@@ -47,7 +47,7 @@ Example 1:
 In this case, your function should return 6,
 
 because the longest path between two leaves is 6->4->2->1->5->7 (or finish by 8),
-which contains 6 nodes, so the tree have a 'width' of 6.
+which contains 6 nodes, so the tree has a 'width' of 6.
 
 Example 2:
 ```
