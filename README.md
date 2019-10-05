@@ -13,18 +13,18 @@ Given the root node of a binary tree, create a function that returns the
 path between two leaves in the tree.
 
 The binary tree uses the following node structure :
-
+```
 struct s_node
 {
 	int value;
 	struct s_node *left;
 	struct s_node *right;
 };
-
+```
 The function must be declared as follows:
-
+```
 int	width_tree(struct s_node *n);
-
+```
 Consideration:
 
 - Be careful: the naive solution won't work on our big input, you have to find
